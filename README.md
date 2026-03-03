@@ -8,7 +8,8 @@ Estructura base de datos relacional con PostgreSQL:
 DER:  <img width="1019" height="714" alt="DER" src="https://github.com/user-attachments/assets/34968ff2-5166-4ec0-b076-48b1e8273449" />
 
 Para ejecutar el archivo "Script-PD.sql" debes hacerlo mediante un gestor de bases de datos, en este caso, la recomendación es DBeaver con PostgreSQL:
-Debes conectarte al servidor y base de datos con las credenciales adjuntas a continuación: 
+Debes conectarte al servidor y base de datos con las credenciales adjuntas a continuación: <img width="760" height="920" alt="imagen" src="https://github.com/user-attachments/assets/a8652f65-18b0-42dd-ac13-8e72d9829118" /> 
+
 
 Estructura del API con Express:
 <img width="293" height="551" alt="imagen" src="https://github.com/user-attachments/assets/c2b0f1b0-b047-4084-8083-f7eff4c5fabe" />
